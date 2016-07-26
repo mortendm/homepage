@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /om/
+title: "Om os"
+excerpt: "Om infoGeist"
 layouts_gallery:
   - url: mm-layout-splash.png
     image_path: mm-layout-splash.png
@@ -12,7 +12,7 @@ layouts_gallery:
   - url: mm-layout-archive.png
     image_path: mm-layout-archive.png
     alt: "archive layout example"
-modified: 2016-04-18T16:39:37-04:00
+modified: 2016-07-26
 ---
 
 {% include base_path %}
