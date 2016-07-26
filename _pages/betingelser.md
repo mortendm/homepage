@@ -1,15 +1,15 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+permalink: /betingelser/
+title: "Cookie og privatlivspolitik"
+modified: 2016-26-07
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+## Cookie og privatlivspolitik
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Den kommer her...
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
