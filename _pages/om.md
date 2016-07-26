@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /om/
+title: "Om os"
+excerpt: "Om infoGeist"
 layouts_gallery:
   - url: mm-layout-splash.png
     image_path: mm-layout-splash.png
@@ -12,12 +12,24 @@ layouts_gallery:
   - url: mm-layout-archive.png
     image_path: mm-layout-archive.png
     alt: "archive layout example"
-modified: 2016-04-18T16:39:37-04:00
+modified: 2016-07-26
 ---
 
 {% include base_path %}
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+## Direkte kontakt
+
+### Direktør Morten Damsgaard-Madsen
+
+Telefon: 22 81 87 73
+E-mail: <morten@infogeist.dk>
+
+### Notice and take down
+
+Hvis du finder materiale på www.infogeist.dk eller en af vores undersider som ikke burde ligge der, så kontakt os på info@infogeist.dk. Så fjerner vi hurtigst muligt materialet.
+
+
+InfoGeists hjemmeside is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
 
