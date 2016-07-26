@@ -9,7 +9,7 @@
 locale                   : "da-DK"
 title                    : "infoGeist"
 title_separator          : "-"
-name                     : &name "infoGeist ApS"
+name                     : &name "infoGeist"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mortendm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
@@ -70,25 +70,25 @@ author:
   bio              : "Vi gør det nemt for dig!"
   location         : "Hinnerup, Århus"
   email            : *email
-  uri              : "https://mademistakes.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://dk.linkedin.com/in/morten-damsgaard-madsen-aba1a54b
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          :
   vine             :
   weibo            :
   xing             :
