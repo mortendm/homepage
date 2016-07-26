@@ -1,5 +1,35 @@
 # User interface text and labels
 
+# Dansk
+# -----------------
+da: &DEFAULT_DA
+  page                  : "Side"
+  pagination_previous   : "Forrige"
+  pagination_next       : "Næste"
+  breadcrumb_home_label : "Hjem"
+  breadcrumb_separator  : "/"
+  toc_label             : "På denne side"
+  ext_link_label        : "Direkte link"
+  less_than             : "mindre end"
+  minute_read           : "minutters læsning"
+  share_on_label        : "Share on"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Kategorier:"
+  date_label            : "Opdateret:"
+  comments_label        : "Leave a Comment"
+  more_label            : "Learn More"
+  related_label         : "You May Also Enjoy"
+  follow_label          :
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Hjemmeside"
+  email_label           : "Email"
+  recent_posts          : "Recent Posts"
+  undefined_wpm         : "Undefined parameter words_per_minute at _config.yml"
+da-DK:
+  <<: *DEFAULT_DA
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
