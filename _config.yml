@@ -49,8 +49,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    # - "https://twitter.com/mmistakes"
+    - "www.facebook.com/InfoGeist"
 
 # Analytics
 analytics:
@@ -82,7 +82,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://dk.linkedin.com/in/morten-damsgaard-madsen-aba1a54b
+  linkedin         : www.linkedin.com/in/mortendamsgaardmadsen
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
