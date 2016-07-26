@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "da-DK"
-title                    : "Minimal Mistakes"
+title                    : "infoGeist"
 title_separator          : "-"
-name                     : &name "Michael Rose"
+name                     : &name "infoGeist ApS"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mortendm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "minimalmistakes"
+    shortname            : "infogeist"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -66,9 +66,9 @@ google_ad_slot           :
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  avatar           : "LG-hallo.png"
+  bio              : "Vi gør det nemt for dig!"
+  location         : "Hinnerup, Århus"
   email            : *email
   uri              : "https://mademistakes.com"
   bitbucket        :
