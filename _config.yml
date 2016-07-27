@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "da-DK"
+locale                   : "da"
 title                    : "infoGeist"
 title_separator          : "-"
 name                     : &name "infoGeist"
