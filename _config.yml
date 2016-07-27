@@ -40,6 +40,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter "mmistakes"
+linkedin:
+  username               : mortendamsgaardmadsen
 facebook:
   username               : &facebook "InfoGeist"
   app_id                 :
