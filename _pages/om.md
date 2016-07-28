@@ -20,7 +20,7 @@ E-mail: <morten@infogeist.dk>
 Hvis du finder materiale på www.infogeist.dk eller en af vores undersider som ikke burde ligge der, så kontakt os på info@infogeist.dk. Så fjerner vi hurtigst muligt materialet.
 
 
-InfoGeists hjemmeside is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+InfoGeists hjemmeside is a mucho great two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
 
