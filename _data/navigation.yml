@@ -21,14 +21,11 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-
   - title: "Om os"
     url: /om/
 
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Virksomhed"
+    url: /virksomhed/
 
   - title: "Sample Collections"
     url: /collection-archive/
@@ -36,6 +33,8 @@ main:
   - title: "Betingelser og privatlivspolitik"
     url: /betingelser/
 
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
 
 # documentation links
 docs:

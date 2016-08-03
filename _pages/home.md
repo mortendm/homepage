@@ -7,12 +7,12 @@ header:
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> '
+excerpt: 'infoGeist laver løsninger der er nemme at bruge. Det betyder at I kan spare tid, kræfter og penge uden at gå på kompromis med kvalitet og sikkerhed.<br /> '
 feature_row:
   - image_path: LG-virksomhed.png
     alt: "virksomhed"
     title: "Virksomhed"
-    excerpt: "Få styr på alle jeres procedurer og dokumentation. Det øger produktiviteten og giver konkurrencefordele."
+    excerpt: "Få styr på alle virksomhedens procedurer og dokumentation. Det øger produktiviteten og giver konkurrencefordele."
     url: "/docs/configuration/"
     btn_label: "Læs mere"
   - image_path: LG-uddannelse.png
