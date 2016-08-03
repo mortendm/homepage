@@ -12,7 +12,7 @@ feature_row:
   - image_path: LG-virksomhed.png
     alt: "virksomhed"
     title: "Virksomhed"
-    excerpt: "Få styr på procedurer og dokumentation. Det øger produktiviteten og giver konkurrencefordele."
+    excerpt: "Få styr på alle jeres procedurer og dokumentation. Det øger produktiviteten og giver konkurrencefordele."
     url: "/docs/configuration/"
     btn_label: "Læs mere"
   - image_path: LG-uddannelse.png
