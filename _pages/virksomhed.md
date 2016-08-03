@@ -16,7 +16,7 @@ modified: 2016-08-03
 
 Tekst der skal wrappes omkring billedet demo demo. det kommer til at se supergodt ud! Endelig slutter denne tekst så vi kan komme videre.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-virksomhed-small.png.png){: .align-left}Tekst der skal wrappes omkring billedet. det kommer til at se supergodt ud! Endelig slutter denne tekst så vi kan komme videre.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-virksomhed-small.png){: .align-left}Tekst der skal wrappes omkring billedet. det kommer til at se supergodt ud! Endelig slutter denne tekst så vi kan komme videre.
 
 Læs mere om Smartpub som dokumentationsværktøj på [hjemmesiden for digital driftshåndbog](www.digitaldriftshåndbog.dk)
 
