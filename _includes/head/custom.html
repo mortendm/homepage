@@ -33,6 +33,17 @@
      alert('ok');
   });
 </script>
+<script type="text/javascript"> 
+          $(document).ready(function(){
+             $.cookieBar({
+                 message: 'Denne hjemmeside bruger cookies for at forbedre din oplevelse med siden. Vi håber, at det er ok og ellers kan du altid slå cookies fra.',
+                 acceptText: 'Accepter',
+                 policyButton: true,
+                 policyText: 'Læs mere', //Text on Privacy Policy button
+                 policyURL: '/account/terms/privacy/' //URL of Privacy Policy
+             });
+          });
+</script>
 <!--
 <script type="text/javascript" src="{{ base_path }}/assets/cookiebar.js"></script> 
 -->
