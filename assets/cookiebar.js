@@ -4,7 +4,7 @@ $(document).ready(function () {
         acceptText: 'Accepter',
         policyButton: true,
         policyText: 'Læs mere',
-        policyURL: '/betingelser/',
+        policyURL: '{{ base_path }}/betingelser/',
         bottom: true,
         element: '.body-bottom'
     });
