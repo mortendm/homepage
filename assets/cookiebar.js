@@ -4,6 +4,6 @@ $(document).ready(function () {
         acceptText: 'Accepter',
         policyButton: true,
         policyText: 'Læs mere',
-        policyURL: '/account/terms/privacy/'
+        policyURL: '/betingelser/'
     });
 });
