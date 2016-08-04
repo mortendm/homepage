@@ -4,6 +4,8 @@ $(document).ready(function () {
         acceptText: 'Accepter',
         policyButton: true,
         policyText: 'Læs mere',
-        policyURL: '/betingelser/'
+        policyURL: '/betingelser/',
+        bottom: true,
+        element: '.body-bottom'
     });
 });
