@@ -28,16 +28,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <link rel="stylesheet"  href="{{ base_path }}/assets/bower_components/jquery.cookiebar/jquery.cookiebar.css" /> 
 <script type="text/javascript" src="{{ base_path }}/assets/bower_components/jquery.cookiebar/jquery.cookiebar.js"></script> 
-<script type="text/javascript"> 
-          $(document).ready(function(){
-             $.cookieBar({
-                 message: 'Denne hjemmeside bruger cookies for at forbedre din oplevelse med siden. Vi håber, at det er ok og ellers kan du altid slå cookies fra.',
-                 acceptText: 'Accepter',
-                 policyButton: true,
-                 policyText: 'Læs mere',
-                 policyURL: '/account/terms/privacy/'
-             });
-          });
-</script>
 
+<script type="text/javascript" src="{{ base_path }}/assets/cookiebar.js"></script> 
 <!-- end custom head snippets -->
