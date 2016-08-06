@@ -15,7 +15,7 @@ Vi vil aldrig dele jeres e-mail adresser eller anden personlig information uden 
 
 ### Log Filer
 
-Som så mange andre hjemmesider bruger vi l
+Som så mange andre hjemmesider bruger vi en test
 
 ike many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
