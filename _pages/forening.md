@@ -2,15 +2,14 @@
 permalink: /forening/
 title: "Forening"
 excerpt: "Forening"
-modified: 2016-08-03
+modified: 2016-08-23
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## InfoGeist til foreninger
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-forening-small.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-virksomhed-small.png){: .align-left}
 Alle foreninger ved, hvor vigtigt det er at fastholde dialogen med medlemmerne. Derfor har de fleste et medlemsblad, hvor de udveksler ideer, orienterer om kursustilbud og har nyt om fagets udvikling.
 
 Men I har sikkert også oplevet udfordringer:

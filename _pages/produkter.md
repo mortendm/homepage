@@ -10,7 +10,7 @@ modified: 2016-08-23
 
 ## Smartpub
 
-[Link til brugervejledning] (https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html)
+[Link til brugervejledning](https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html)
 
 Smartpub bruges bl.a. til at lave dokumentation, manualer, undervisningsmateriale og medlemsblade. Fælles for vore kunder er, at de ønsker en platform til at kommunikere nemt og effektivt med deres målgruppe. Du kan læse mere under de forskellige kundesegmenter på hjemmesiden, herunder har vi fremhævet de fordele som er fælles for alle kundesegmenter:
 

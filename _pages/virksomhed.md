@@ -6,7 +6,6 @@ modified: 2016-08-03
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## Få styr på procedurer og dokumentation
 
@@ -34,4 +33,4 @@ Vores tilgang er at gøre det nemt og hurtigt at oprette og ændre i dokumentati
 - Den nyeste version bliver hurtigere tilgængelig
 - Der er mulighed for noter og bogmærker
 
-Læs mere om Smartpub som dokumentationsværktøj på [hjemmesiden for digital driftshåndbog](www.digitaldriftshåndbog.dk)
+Læs mere om Smartpub som dokumentationsværktøj på [hjemmesiden for digital driftshåndbog](http://www.digitaldriftshåndbog.dk)

@@ -6,11 +6,10 @@ modified: 2016-07-26
 ---
 
 {% include base_path %}
-{% include toc %}
 
-##b InfoGeists vision for uddannelse
+## InfoGeists vision for uddannelse
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-uddannelse-small.png){: .align-left}Vores vision for uddannelse er at eleverne skal være medskabere af deres undervisning. Samtidig skal den viden som de skaber, kunne deles på en nem måde.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-virksomhed-small.png){: .align-left}Vores vision for uddannelse er at eleverne skal være medskabere af deres undervisning. Samtidig skal den viden som de skaber, kunne deles på en nem måde.
 
 Hos infoGeist sker det ved, at eleverne producerer tekst, billeder og film. De tre ting samles automatisk af infoGeist til en e-bog og/eller hjemmeside, som eleverne kan bruge i undervisningen og til eksamen.
 
