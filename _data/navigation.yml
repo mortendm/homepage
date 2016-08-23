@@ -21,20 +21,21 @@ foo:
 
 # main links links
 main:
-  - title: "Om os"
-    url: /om/
+
+  - title: "Produkter"
+    url: /produkter/
 
   - title: "Virksomhed"
     url: /virksomhed/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Uddannelse"
+    url: /uddannelse/
 
-  - title: "Betingelser og privatlivspolitik"
-    url: /betingelser/
+  - title: "Forening"
+    url: /forening/
 
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Om os"
+    url: /om/
 
 # documentation links
 docs:

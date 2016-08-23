@@ -1,87 +1,23 @@
 ---
-permalink: /om/
-title: "Om os"
-excerpt: "Om infoGeist"
+permalink: /uddannelse/
+title: "Uddannelse"
+excerpt: "Uddannelse"
 modified: 2016-07-26
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Direkte kontakt
+##b InfoGeists vision for uddannelse
 
-### Direktør Morten Damsgaard-Madsen
+![image-left]({{ site.url }}{{ site.baseurl }}/images/LG-uddannelse-small.png){: .align-left}Vores vision for uddannelse er at eleverne skal være medskabere af deres undervisning. Samtidig skal den viden som de skaber, kunne deles på en nem måde.
 
-Telefon: 22 81 87 73
-E-mail: <morten@infogeist.dk>
+Hos infoGeist sker det ved, at eleverne producerer tekst, billeder og film. De tre ting samles automatisk af infoGeist til en e-bog og/eller hjemmeside, som eleverne kan bruge i undervisningen og til eksamen.
 
-### Notice and take down
+**Visionen har fokus på tre ting:**
 
-Hvis du finder materiale på www.infogeist.dk eller en af vores undersider som ikke burde ligge der, så kontakt os på info@infogeist.dk. Så fjerner vi hurtigst muligt materialet.
+- **Motivation:** Når eleverne er medskabere af undervisningen er de aktive. De tager ejerskab for undervisningen – og det skaber motivation.
+- **Samarbejde:** infoGeist skaber nye og bredere rammer for samarbejde på tværs i undervisningen. Eleverne skal studere sammen og lære af hinandens løsninger og måde at fortælle på.
+- **Læring:** Med infoGeist lærer eleverne at formidle til andre. Det giver større forståelse for undervisningens indhold og forbedrer elevernes evne til at præsentere fagligt stof.
 
-
-InfoGeists hjemmeside is a mucho great two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
-
-## Notable Features
-
-- Compatible with Jekyll 3.x and GitHub Pages
-- Several layout options (single, archive, splash pages)
-- SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional header images, sidebars, table of contents, galleries, related posts, breadcrumb links, and more.
-- Optional comments ([Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, and custom)
-- Optional analytics ([Google Analytics](https://www.google.com/analytics/) and custom)
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tags. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ base_path }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ base_path }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ base_path }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ base_path }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ base_path }}/recipes/chocolate-chip-cookies/
-[categories-archive]: {{ base_path }}/categories/
-[tags-archive]: {{ base_path }}/tags/
-[year-archive]: {{ base_path }}/year-archive/
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Stickyfill](https://github.com/wilddeer/stickyfill)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+I bestemmer selv, om I både vil have e-bog og hjemmeside. I kan lave jeres egen matematikbog som en e-bog. Den må eleverne have med til eksamen, da den kan læses uden forbindelse til internettet. I kan også lave hjemmesider til projekter eller den daglige undervisning. Valget er jeres – vi skal nok klare teknikken.
