@@ -16,14 +16,14 @@ Telefon: 22 81 87 73
 E-mail: <morten@infogeist.dk>
 
 infoGeist ApS
-Bogøvej 15
-8382 Hinnerup
-+45 22 81 87 73
-info@infogeist.dk
+
+Bogøvej 15, 8382 Hinnerup
+
 Cvr: 34 22 94 14
-Bank: Jyske Bank
-Kontonr: 7176 0001338954
-Medlem af IT-Forum
+
+Bank: Jyske Bank, kontonr: 7176 0001338954
+
+Medlem af [IT-Forum](http://www.itforum.dk)
 
 ### Notice and take down
 
