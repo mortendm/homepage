@@ -72,6 +72,7 @@ I disse virksomheder har infoGeist været brugt til at lave digitale driftshånd
 - Skanderborg kommune (forskellige folkeskoler)
 
 I disse foreninger og organistationer bliver infoGeist brugt til at lave undervisningsmateriale til medlemmerne, medlemsblade og meget mere. Du kan se eksempler på det her. Vil du også gerne bruge infoGeist i din forening eller organisation? Så kontakt os og kom igang allerede i dag!
+
 - Gymnasieskolernes Musiklærerforening
 - KFUM-Spejderne i Lystrup
 - ULF - Udviklingshæmmedes Landsforbund

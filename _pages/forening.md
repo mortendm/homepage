@@ -2,7 +2,7 @@
 permalink: /forening/
 title: "Forening"
 excerpt: "Forening"
-modified: 2016-08-23
+modified: 2016-08-26
 ---
 
 {% include base_path %}
