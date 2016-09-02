@@ -13,7 +13,7 @@ feature_row:
     alt: "virksomhed"
     title: "Virksomhed"
     excerpt: "Få styr på alle virksomhedens procedurer og dokumentation. Det øger produktiviteten og giver konkurrencefordele."
-    url: "virksomhed"
+    url: "/virksomhed"
     btn_label: "Læs mere"
   - image_path: LG-uddannelse.png
     alt: "uddannelse"
