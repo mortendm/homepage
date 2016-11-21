@@ -17,7 +17,7 @@ E-mail: <morten@infogeist.dk>
 
 infoGeist ApS
 
-Bogøvej 15, 8382 Hinnerup
+Overdrevet 8, 8382 Hinnerup
 
 Cvr: 34 22 94 14
 
