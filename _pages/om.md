@@ -2,7 +2,7 @@
 permalink: /om/
 title: "Om os"
 excerpt: "Om infoGeist"
-modified: 2016-07-26
+modified: 2017-12-08
 ---
 
 {% include base_path %}

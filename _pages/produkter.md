@@ -2,7 +2,7 @@
 permalink: /produkter/
 title: "Produkter"
 excerpt: "Produkter"
-modified: 2016-08-23
+modified: 2017-12-08
 ---
 
 {% include base_path %}

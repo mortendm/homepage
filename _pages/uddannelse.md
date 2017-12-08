@@ -2,7 +2,7 @@
 permalink: /uddannelse/
 title: "Uddannelse"
 excerpt: "Uddannelse"
-modified: 2016-07-26
+modified: 2017-12-08
 ---
 
 {% include base_path %}
