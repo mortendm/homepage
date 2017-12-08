@@ -32,5 +32,3 @@ Vores tilgang er at gøre det nemt og hurtigt at oprette og ændre i dokumentati
 - Det er nemt at søge og orientere sig i dokumentationen
 - Den nyeste version bliver hurtigere tilgængelig
 - Der er mulighed for noter og bogmærker
-
-Læs mere om Smartpub som dokumentationsværktøj på [hjemmesiden for digital driftshåndbog](http://www.digitaldriftshåndbog.dk)
